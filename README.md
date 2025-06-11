@@ -1,1 +1,1 @@
-# arm_control
+# Control manipulator for ROS
